@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<launcher>
+  <year>2015</year>
+  <genre>console, set-top box, microconsole</genre>
+  <developer>Nvidia</developer>
+  <rating />
+  <plot>
+  The Nvidia Shield TV, Shield Android TV, Shield Console, or simply the Nvidia Shield, is an Android TV-based digital media player produced by Nvidia as part of its Shield brand of Android devices. First released in May 2015, the Shield was initially marketed by Nvidia as a microconsole, emphasizing its ability to play downloaded games and stream games from a compatible PC on a local network, or via the GeForce Now subscription service. As with all other Android TV devices, it can also stream content from various sources using apps, and also supports 4K resolution video. It is produced in two models, with the second Shield TV Pro model distinguished primarily by increased internal storage. 
+In 2017, Nvidia released a refreshed version of the 16 GB Shield, which has a smaller form factor that drops MicroSD and infrared support, comes with an updated controller, and is otherwise identical in hardware to the original model. In 2019, Nvidia refreshed the Shield TV lineup with upgraded processors, and revised the base model with a smaller form factor and less internal storage
+  </plot>
+</launcher>
